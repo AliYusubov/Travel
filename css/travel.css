@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(233, 233, 233) !important;
+    background-image: url(../images/501139.jpg);
+    font-family: 'Open Sans', sans-serif!important;
+    font-family: 'Raleway', sans-serif!important;
+}
+
+hr {
+    margin-bottom: 50px;
+}
+
+.window {
+    width: 700px;
+    height: 800px;
+    background-color: rgb(255, 253, 253);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    opacity: 0.9;
+}
+
+.nme {
+
+    padding-top: 100px !important;
+}
+
+.surnme {
+    padding-left: 265px;
+    padding-bottom: 10px;
+}
+
+.name {
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 15px 20px;
+    width: 295px;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.surname {
+    padding: 15px 20px;
+    width: 295px;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.Phone {
+    margin-top: 10px;
+    padding: 15px 20px;
+    border: 1px solid rgb(211, 211, 211);
+    width: 605px;
+}
+
+.Email {
+    margin-top: 10px;
+    padding: 15px 20px;
+    border: 1px solid rgb(211, 211, 211);
+    width: 605px;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 22px;
+    padding: 30px;
+}
+
+.dv {
+    padding-left: 50px !important;
+}
+
+.select {
+    padding: 7px 22px;
+    margin-top: 30px;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.Register {
+    border: 1px solid rgb(211, 211, 211);
+    padding: 7px 11px;
+}
+
+.person {
+    border: 1px solid rgb(211, 211, 211);
+}
